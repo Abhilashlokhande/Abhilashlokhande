@@ -1,7 +1,8 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Abhilash Lokhande</h1>
 <h3 align="center">React developer from India</h3>
-<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" width="400" alt="abhilash" align="right">
+<img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif" width="400" alt="abhilash" align="center">
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilashlokhande&label=Profile%20views&color=0e75b6&style=flat" alt="abhilashlokhande" /> </p>
 
